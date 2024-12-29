@@ -15,7 +15,7 @@
       <td><a href="https://ruby.social/@ydah">ruby.social/@ydah</a></td>
     </tr>
     <tr>
-      <td>Mastodon</td>
+      <td>LinkedIn</td>
       <td><a href="https://www.linkedin.com/in/ydah/">linkedin.com/in/ydah</a></td>
     </tr>
  </table>
