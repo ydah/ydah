@@ -1,5 +1,5 @@
 - [CRuby](https://github.com/ruby/ruby) committer
-- Maintainer of the pure Ruby parser generator [Lrama](https://github.com/ruby/lrama)
+- Committer of the pure Ruby parser generator [Lrama](https://github.com/ruby/lrama)
 - Member of [RuboCop RSpec Team](https://github.com/orgs/rubocop/people)
 - Maintainer of [Committee](https://github.com/interagent/committee)
 
